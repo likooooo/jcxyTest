@@ -1,0 +1,11 @@
+*
+!/dbhistory
+!/dbhistory/*.*
+!/test
+!/test/.occupied
+!/1
+!/1/.occupied
+!autotest.py
+!db.txt
+!dbgrowth.py
+!decomposeChoiceData.py
